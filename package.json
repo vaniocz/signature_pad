@@ -1,8 +1,8 @@
 {
-  "name": "signature_pad",
+  "name": "@vanio-cz/signature_pad",
   "description": "Library for drawing smooth signatures.",
   "version": "3.0.0-beta.4",
-  "homepage": "https://github.com/szimek/signature_pad",
+  "homepage": "https://github.com/vaniocz/signature_pad",
   "author": {
     "name": "Szymon Nowak",
     "email": "szimek@gmail.com",
