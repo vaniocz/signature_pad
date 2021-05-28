@@ -1,6 +1,6 @@
 /*!
  * Signature Pad v3.0.0-beta.4 | https://github.com/szimek/signature_pad
- * (c) 2020 Szymon Nowak | Released under the MIT license
+ * (c) 2021 Szymon Nowak | Released under the MIT license
  */
 
 (function (global, factory) {
